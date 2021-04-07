@@ -22,20 +22,20 @@ body {
 
 .container > div:nth-child(1),
 .container > div:nth-child(5) {
-    animation: glitch1 3s infinite;
+    animation: glitch1 1s 4 alternate ease;
 }
 
 .container > div:nth-child(2),
 .container > div:nth-child(6) {
-    animation: glitch2 3s infinite;
+    animation: glitch3 1s 4 alternate ease;
 }  
 
 .container > div:nth-child(3),
 .container > div:nth-child(7) {
-    animation: glitch3 3s infinite;
+    animation: glitch3 1s 4 ease;
 }
 .container > div:nth-child(4){
-    animation: glitch4 3s infinite;
+    animation: glitch4 1s 4 ease;
 }
 
 @keyframes glitch1 {
