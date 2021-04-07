@@ -1,0 +1,17 @@
+.container {
+    width: 896px;
+}
+
+[class*="col-"] {
+    height: 56px;
+}
+
+.white {
+    background-color: white;
+}
+.black {
+    background-color: black;
+}
+.red {
+    background-color: red;
+}

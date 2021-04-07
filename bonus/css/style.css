@@ -1,0 +1,26 @@
+.container {
+    width: 900px;
+}
+
+[class*="col-"] {
+    height: 75px;
+}
+
+.white {
+    background-color: white;
+}
+.black {
+    background-color: black;
+}
+.red {
+    background-color: red;
+}
+.darkred {
+    background-color: darkred;
+}
+.lightred {
+    background-color: lightcoral;
+}
+.grey {
+    background-color: lightgrey;
+}
