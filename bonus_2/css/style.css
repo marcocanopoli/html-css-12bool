@@ -20,7 +20,7 @@ body {
     background-color: red;
 }
 
-.container > div:nth-child(1),
+/* .container > div:nth-child(1),
 .container > div:nth-child(5) {
     animation: glitch1 1s 4 alternate ease;
 }
@@ -204,5 +204,5 @@ body {
     100% {
         transform: translate(-20px, -50px);
     }
-}
+} */
   
